@@ -1,0 +1,15 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "env": {
+    "browser": true,
+    "node": true,
+    "amd": true,
+    "commonjs": true,
+    "jasmine": true,
+    "jest": true
+  },
+  "rules": {
+    "no-console": 0,
+  }
+}
