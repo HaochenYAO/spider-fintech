@@ -5,7 +5,7 @@ export default {
       url: 'https://loctek.tmall.com/i/asynSearch.htm?_ksTS=1535857698003_626&callback=jsonp627&mid=w-14521562003-0&wid=14521562003&path=/search.htm&search=y&spm=a220m.1000858.1000725.3.47ff2d3aPjpVVO&user_number_id=660242951&rn=c9835a088ae7f234a98c43a891e541cc&keyword=%C0%D6%B8%E8',
     },
     jd: {
-      url: 'https://module-jshop.jd.com/module/getModuleHtml.html?appId=409380&orderBy=5&direction=1&categoryId=0&pageSize=24&pagePrototypeId=8&pageInstanceId=19870741&moduleInstanceId=112886410&prototypeId=34&templateId=400152&layoutInstanceId=112886410&origin=0&shopId=1000002388&venderId=1000002388&callback=jshop_module_render_callback&_=1536072203490&pageNo',
+      url: 'https://module-jshop.jd.com/module/getModuleHtml.html?appId=409380&orderBy=5&direction=1&categoryId=0&pageSize=24&pagePrototypeId=8&pageInstanceId=19870741&moduleInstanceId=112886410&prototypeId=34&templateId=400152&layoutInstanceId=112886410&origin=0&shopId=1000002388&venderId=1000002388&callback=jshop_module_render_callback&_=1536072203490&pageNo=',
       url_price: 'https://p.3.cn/prices/mgets?callback=jQuery6687696&source=jshop&area=1_72_2799_0&_=1536072205522&skuids=',
       url_comment: 'https://club.jd.com/comment/productCommentSummaries.action?callback=jQuery6060915&_=1536072205516&referenceIds=',
     },
